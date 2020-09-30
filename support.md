@@ -3,10 +3,10 @@ layout: page
 title: 技术支持 
 ---
 
-博客源码在 <a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
+博客源码在 <a target="_blank" href='https://github.com/LooleS/LooleS.github.io'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
 
 
-遇到问题请先自行排查，可以直接在[Issues](https://github.com/leopardpan/leopardpan.github.io/issues)里面提问，不过回复的可能不及时。
+遇到问题请先自行排查，可以直接在[Issues](https://github.com/LooleS/LooleS.github.io/issues)里面提问，不过回复的可能不及时。
 
 目前我已经给很多小伙伴做过单独的技术支持了，现在设置 `付费支持功能` 
 
@@ -29,13 +29,13 @@ title: 技术支持
 
 我可能不是所有的问题都能解答，但是我会带着你去学习，一起成长！
 
-<h3> 我是一个iOS开发者 </h3>
+<h3> 我是一个java开发者 </h3>
 
-其实我是一个正正经经的iOS开发者, 并且一直在做 iOS 开发6年了。
+其实我是一个正正经经的java开发者, 并且一直在做 java 开发2年了。
 
-相对于搭建博客的问题，我iOS 技术会更专业。
+相对于搭建博客的问题，我 java 技术会更专业。
 
-如果有关于iOS的问题我们也可以一起讨论
+如果有关于java的问题我们也可以一起讨论
 
 
 <h3> 感谢您的打赏 </h3> 
@@ -47,9 +47,9 @@ title: 技术支持
 <h3> 如何联系到我 </h3>
 
 <p> 
-email：leoparpan@icloud.com       
+email：2865134664@qq.com       
 <p> 
-qq: 1499065178     
+qq: 2865134664     
 <p> 
 
 {% include comments.html %}
