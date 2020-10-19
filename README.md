@@ -80,7 +80,7 @@
 
 #### 头像效果
 
-![](https://looles.github.io/images/readme/icon.gif)
+![](https://looles.github.io/images/readme/icon.png)
 
 如果你只想要我博客里的头像效果，你只需要拿 looles.github.io/_includes/side-panel.html 文件里面 `头像效果` 和 looles.github.io/css/main.css 里面最后面 `头像效果` 部分就行了。
 
@@ -89,7 +89,7 @@
 
 #### 博客首页   
 
-![](https://looles.github.io//images/readme/img4.png)   
+![](https://looles.github.io//images/readme/icon.png)   
 
 ***  
 
@@ -112,4 +112,4 @@
 
 #### 感谢   
 
-本博客在[Vno Jekyll](https://github.com/onevcat/vno-jekyll)基础上修改的。  
+本博客在[Vno Jekyll](https://github.com/leopardpan/leopardpan.github.io)基础上修改的。  
