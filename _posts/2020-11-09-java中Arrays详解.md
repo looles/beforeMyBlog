@@ -69,7 +69,7 @@ int[] nums = {2,5,0,4,1,-10};
 功能：返回多维数组的字符串形式
 
 ```java
-int[][] nums = {{1,2},{3,4}};
+    int[][] nums = {{1,2},{3,4}};
         System.out.println(Arrays.deepToString(nums));
         /*
          * 结果:[[1, 2], [3, 4]]
@@ -156,4 +156,3 @@ public class HelloWorld {
     }
 }
 ```
-
