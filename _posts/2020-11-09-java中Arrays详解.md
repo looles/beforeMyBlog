@@ -66,14 +66,6 @@ int[] nums = {2,5,0,4,1,-10};
 4.Arrays.deepToString(Object[][] arrays)
 功能：返回多维数组的字符串形式
 
-```java
-int[][] nums = {{1,2},{3,4}};
-        System.out.println(Arrays.deepToString(nums));
-        /*
-         * 结果:[[1, 2], [3, 4]]
-         */
-```
-
 5、Arrays.copyOfRange
 对数组进行复制
 与使用System.arraycopy进行数组复制类似的， Arrays提供了一个copyOfRange方法进行数组复制。
