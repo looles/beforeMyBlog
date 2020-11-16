@@ -1,4 +1,12 @@
-﻿## 题目
+﻿---
+layout: post
+title: "LeetCode中按奇偶排序数组II题解"
+date: 2020-11-12 
+description: "LeetCode刷题"
+tag: LeetCode
+---
+
+## 题目
 922. 按奇偶排序数组 II
 给定一个非负整数数组 A， A 中一半整数是奇数，一半整数是偶数。
 

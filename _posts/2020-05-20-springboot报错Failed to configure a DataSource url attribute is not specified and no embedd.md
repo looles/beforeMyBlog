@@ -1,4 +1,12 @@
-﻿Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured.在初步搭建springboot应用，因为没有进行数据库配置，如地址值，数据库驱动，用户名，密码等，常常会出现上述错误，表示是无法配置DataSource：未指定‘URL’属性，无法配置嵌入数据源。
+﻿---
+layout: post
+title: "springboot报错Failed to configure a DataSource url attribute is not specified and no embedd"
+date: 2020-05-20 
+description: "Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured.在初步搭建springboot应用，因为没有进行数据库配置，如地址值，数据库驱动，用户名，密码等，常常会出现上述错误，表示是无法配置DataSource：未指定‘URL’属性，无法配置嵌入数据源"
+tag: springboot
+--- 
+
+Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured.在初步搭建springboot应用，因为没有进行数据库配置，如地址值，数据库驱动，用户名，密码等，常常会出现上述错误，表示是无法配置DataSource：未指定‘URL’属性，无法配置嵌入数据源。
 
 Springboot最大的一个好处就是自动配置，所以我们只需要配置相关属性的值，它就会自动配置，配置在application.properties文件中。
 

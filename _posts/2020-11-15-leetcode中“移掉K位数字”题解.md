@@ -1,4 +1,12 @@
-﻿## 题目
+﻿---
+layout: post
+title: "LeetCode中移掉K位数字题解"
+date: 2020-11-15 
+description: "LeetCode刷题"
+tag: LeetCode
+---
+
+## 题目
 402. 移掉K位数字
 给定一个以字符串表示的非负整数 num，移除这个数中的 k 位数字，使得剩下的数字最小。
 

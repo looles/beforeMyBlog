@@ -1,4 +1,12 @@
-﻿## 使用Hbuilder X创建基于uni-app模板的微信小程序
+﻿---
+layout: post
+title: "使用Hbuilder X创建基于uni-app模板的微信小程序"
+date: 2019-08-15 
+description: "使用Hbuilder X创建基于uni-app模板的微信小程序"
+tag: 微信小程序
+---
+
+## 使用Hbuilder X创建基于uni-app模板的微信小程序
 
  1. 在Hbuilder X里面新建一个uni-app项目
 点击文件，选择新建，后创建项目
