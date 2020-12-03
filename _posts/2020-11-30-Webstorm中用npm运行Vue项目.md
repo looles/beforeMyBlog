@@ -1,4 +1,11 @@
-﻿## 第一步
+﻿---
+layout: post
+title: "Webstorm中用npm运行Vue项目"
+date: 2020-11-30
+description: "Webstorm中用npm运行Vue项目"
+tag: 前端
+---
+## 第一步
 右击package.json文件，点击show npm Scripts
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20201130170555267.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQzNzI5Mjc3,size_16,color_FFFFFF,t_70)
 第二步：出现npm面板，选择dev运行项目
